@@ -1,5 +1,6 @@
 # Terminal Cheatsheet
 
+
 ------------
 
 ## COMANDOS PRINCIPAIS
